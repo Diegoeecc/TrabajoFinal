@@ -1,0 +1,7 @@
+0 chicken
+1 beef
+2 onion
+3 tomato
+4 rice
+5 pasta
+6 pork
